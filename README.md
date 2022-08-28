@@ -3,7 +3,7 @@
 ### Hola, I'm Carlos! 👋
 ---
 
-🛰 Communication System Operator, **[U.S. Space Force][USSF]** <br/>
+🛰 Supra Coder, **[U.S. Space Force][USSF]** <br/>
 📚 Computer Science student <br/>
 📚 Graduate from **[Supra Coders][supracoder] Cohort 2** <br/>
 💬 Connect with me on **[LinkedIn][linkedIn]** <br/>
