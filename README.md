@@ -5,7 +5,7 @@
 
 🛰 Supra Coder, **[U.S. Space Force][USSF]** <br/>
 📚 Computer Science student <br/>
-📚 Graduate from **[Supra Coders][supracoder] Cohort 2** <br/>
+📚 Graduate from **[Supra Coders][supracoder] SDI Cohort 2** <br/>
 💬 Connect with me on **[LinkedIn][linkedIn]** <br/>
 👯 I’m looking for OpenSource projects to collaborate <br/>
 
