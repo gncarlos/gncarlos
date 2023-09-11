@@ -4,7 +4,7 @@
 ---
 
 🛰 Supra Coder (Fullstack Web Developer), **[U.S. Space Force][USSF]** <br/>
-📚 Computer Science student <br/>
+📚 Software Engineering student <br/>
 📚 Graduate from **[Supra Coders][supracoder] SDI Cohort 2** <br/>
 💬 Connect with me on **[LinkedIn][linkedIn]** <br/>
 👯 I’m looking for OpenSource projects to collaborate <br/>
