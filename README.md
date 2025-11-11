@@ -3,9 +3,8 @@
 ### Hola, I'm Carlos! 👋
 ---
 
-🛰 Supra Coder (Fullstack Web Developer), **[U.S. Space Force][USSF]** <br/>
-📚 Software Engineering student <br/>
-📚 Graduate from **[Supra Coders][supracoder] SDI Cohort 2** <br/>
+📚 B.S. in Software Engineering <br/>
+🛰 Supra Coder (Fullstack Developer), **[U.S. Space Force][USSF]** <br/>
 💬 Connect with me on **[LinkedIn][linkedIn]** <br/>
 👯 I’m looking for OpenSource projects to collaborate <br/>
 
